@@ -1,0 +1,28 @@
+.page {
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.card {
+    border-style: solid;
+    border-radius: 40px;
+    border-width: 0px;
+    background-image: linear-gradient(rgb(71, 71, 71), rgba(104, 104, 104, 0.459));
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: #000FFF
+}
+
+span {
+    color: #ffffff;
+    font-style: initial;
+}
+
+table, ol {
+    background: rgb(145, 145, 145);
+    color: #000000;
+    padding: 20px;
+}
