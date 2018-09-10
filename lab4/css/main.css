@@ -86,4 +86,8 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    background-color: rgb(200, 200, 200);
+}
+
 
